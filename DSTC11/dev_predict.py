@@ -213,7 +213,7 @@ def preprocess_ctxres(examples):
     return result
 
 
-def preprocess_ctx(examples):
+def preprocess_res(examples):
     args = (examples["res"],)
     result = tokenizer(
         *args, padding="max_length", max_length=MAX_LENGTH, truncation=True
@@ -222,7 +222,7 @@ def preprocess_ctx(examples):
 
 
 preprocess_funcs = {
-    "vsp": preprocess_ctx,
+    "vsp": preprocess_res,
     "nsp": preprocess_ctxres,
     "engagement": preprocess_ctxres,
 }
