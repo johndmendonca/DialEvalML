@@ -1,6 +1,9 @@
 # DialEvalML
+[![License](https://img.shields.io/badge/Code%20License-MIT-green.svg)](https://github.com/johndmendonca/DialEvalML/blob/main/LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-This repo implements the Paper [*Towards Multilingual Automatic Open-Domain Dialogue Evaluation*](). It also includes competition code for DSTC11 Track 4 *Robust and Multilingual Automatic Evaluation Metrics for Open-Domain Dialogue Systems*, which is introduced in the [*Simple LLM Prompting is State-of-the-Art for Robust and Multilingual Dialogue Evaluation*]() paper.
+This repo implements the Paper [*Towards Multilingual Automatic Open-Domain Dialogue Evaluation*](https://arxiv.org/abs/2308.16795). It also includes competition code for DSTC11 Track 4 *Robust and Multilingual Automatic Evaluation Metrics for Open-Domain Dialogue Systems*, which is introduced in the [*Simple LLM Prompting is State-of-the-Art for Robust and Multilingual Dialogue Evaluation*](https://arxiv.org/abs/2308.16797) paper.
 
 
 
