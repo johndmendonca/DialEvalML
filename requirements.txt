@@ -182,7 +182,7 @@ tiktoken==0.3.2
 tinycss2 @ file:///croot/tinycss2_1668168815555/work
 tokenizers==0.12.1
 tomli==2.0.1
-torch==1.13.0
+torch==1.13.1
 torch-tb-profiler==0.4.1
 torchaudio==0.13.0
 torchmetrics==0.8.2
